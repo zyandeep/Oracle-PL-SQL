@@ -1,0 +1,4 @@
+1, 3, 'JEC', 'Jorhat'
+2, 1, 'AEC', 'Guwahati'
+3, 4, 'B.Boruah', 'Guwahati'
+4, 2, 'CKB', 'Sonitpur'
